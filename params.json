@@ -1,6 +1,6 @@
 {
   "name": "Ajax",
   "tagline": "Nível básico",
-  "body": "![](http://estagiario.netai.net/img/demos/novo.jpg)\r\n\r\nComo ja tive(TENHO) bastante dificuldades com JQuery e ajax, resolvi\r\npublicar uma contribuição bem simples de um trabalho que fiz para demonstrar o funcionamento básico do AJAX.\r\n\r\nFabrício da Silva Dias. \r\n\r\n[Demonstração](http://ajax.estagiario.netai.net/) || [GitHub](https://github.com/silvadias22/ajax) \r\n",
+  "body": "![](http://estagiario.netai.net/img/demos/novo.jpg)\r\n\r\nComo ja tive(TENHO) bastante dificuldades com JQuery e ajax, resolvi\r\npublicar uma contribuição bem simples de um trabalho que fiz para demonstrar o funcionamento básico do AJAX.\r\n\r\nFabrício da Silva Dias. \r\n\r\n[Demonstração](http://estagiario.netai.net/ajax/) || [GitHub](https://github.com/silvadias22/ajax) \r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
